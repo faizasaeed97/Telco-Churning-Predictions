@@ -1,0 +1,2 @@
+# Telco-Churning-Predictions
+A telco in island C is facing churn issue and would like to know following:  Why are customers churning? What offers could be made to retain them? Build a predictive model using tool of your choice to predict churners: Please share document high lighting how you have built model How you have measured accuracy What is lift of your model (along with validation methdology)  
